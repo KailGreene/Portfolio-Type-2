@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "MY portfolio",
+  "main": "app.jss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KailGreene/Portfolio-Type-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KailGreene/Portfolio-Type-2/issues"
+  },
+  "homepage": "https://github.com/KailGreene/Portfolio-Type-2#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
